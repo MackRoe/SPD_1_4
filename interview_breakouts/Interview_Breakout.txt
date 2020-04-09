@@ -1,0 +1,23 @@
+Practice Problem 4
+
+
+Pseudocode:
+Build histogram, then get the number of key/value pairs indicated by the variable k, with the highest value. Build a new dictionary sorted according to frequency in descending order.
+
+
+________________________________________________________________________
+
+
+import histogram from Histogram
+
+
+String_of_text = “”
+input(string_of_text, k)
+
+
+new_histogram = histogram(sting_of_text)
+for key, value in new_histogram:
+        max_value = new_histogram(value).max()
+        If key not in new histogram:
+                new histogram = new_histogram.add_to_hist()
+        returned_dictionary = {}
