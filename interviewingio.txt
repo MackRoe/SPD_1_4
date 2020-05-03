@@ -1,0 +1,28 @@
+VIDEO 1
+
+https://interviewing.io/recordings/Redcode-Google-17
+
+(+) Interviewee greets the interviewer warmly.
+(-) Interviewee repeatedly interrupts interviewer.
+(-) Uncontrolled background noises (not sure which side they're on)
+(-) Difficult to tell what was typed by interviewer and what was typed by
+interviewee.
+(-) Difficult to tell which entries are 'enemy' entries
+(-) Interviewee did not restate the problem or brainstorm solutions.
+(+) Interviewee asked clarifying questions
+(-) Interviewee goes quiet when thinking
+(+) Interviewee asks permission to give feedback
+
+Improve by:
+1. Interviewee should take notes about questions they have and wait for the
+interviewer to ask if they have questions, before asking.
+2. Use color coding
+3. Think out loud
+4. Wait for the interviewer to stop speaking before the interviewee speaks
+
+
+VIDEO 2
+
+https://interviewing.io/recordings/Python-Microsoft-3
+
+()
